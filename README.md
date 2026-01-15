@@ -1,6 +1,5 @@
 # Nicotine_Epigenetic_PD_Model
 A multigenerational state-transition model studying nicotine-induced epigenetic neuroprotection and delayed Parkinson’s incidence in α-synuclein Drosophila.
-# Nicotine_Epigenetic_PD_Model
 
 ## Overview
 This repository implements a mechanistic, multigenerational state-transition model to study how nicotine-induced epigenetic programming modulates Parkinson’s disease incidence in *Drosophila melanogaster* genetically predisposed via α-synuclein expression.
