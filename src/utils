@@ -1,0 +1,10 @@
+# utils.py
+
+import pandas as pd
+
+def save_results(incidence, filename):
+    df = pd.DataFrame({
+        "Generation": range(1, len(incidence) + 1),
+        "Parkinson_Incidence": incidence
+    })
+    df.to_csv(filename, index=False)
